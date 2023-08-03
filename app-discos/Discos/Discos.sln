@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "discografia", "discografia\discografia.csproj", "{77C472B6-BA08-4D55-9110-FCC86AE061F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{10C7BE6D-D8ED-45FC-AD25-DDE3500F1C1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{B2EAFC09-007A-4CE8-922B-557A6211139C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C472B6-BA08-4D55-9110-FCC86AE061F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C472B6-BA08-4D55-9110-FCC86AE061F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C472B6-BA08-4D55-9110-FCC86AE061F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C472B6-BA08-4D55-9110-FCC86AE061F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C7BE6D-D8ED-45FC-AD25-DDE3500F1C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C7BE6D-D8ED-45FC-AD25-DDE3500F1C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C7BE6D-D8ED-45FC-AD25-DDE3500F1C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C7BE6D-D8ED-45FC-AD25-DDE3500F1C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2EAFC09-007A-4CE8-922B-557A6211139C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2EAFC09-007A-4CE8-922B-557A6211139C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2EAFC09-007A-4CE8-922B-557A6211139C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2EAFC09-007A-4CE8-922B-557A6211139C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07E568A9-500A-4801-B06D-274AD360B466}
+	EndGlobalSection
+EndGlobal

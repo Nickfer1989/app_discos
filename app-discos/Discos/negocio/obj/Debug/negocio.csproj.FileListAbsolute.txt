@@ -1,0 +1,9 @@
+C:\Users\NICO-PC\Desktop\app-discos\Discos\negocio\bin\Debug\negocio.dll
+C:\Users\NICO-PC\Desktop\app-discos\Discos\negocio\bin\Debug\negocio.pdb
+C:\Users\NICO-PC\Desktop\app-discos\Discos\negocio\bin\Debug\dominio.dll
+C:\Users\NICO-PC\Desktop\app-discos\Discos\negocio\bin\Debug\dominio.pdb
+C:\Users\NICO-PC\Desktop\app-discos\Discos\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\NICO-PC\Desktop\app-discos\Discos\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\NICO-PC\Desktop\app-discos\Discos\negocio\obj\Debug\negocio.dll
+C:\Users\NICO-PC\Desktop\app-discos\Discos\negocio\obj\Debug\negocio.pdb
+C:\Users\NICO-PC\Desktop\app-discos\Discos\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache

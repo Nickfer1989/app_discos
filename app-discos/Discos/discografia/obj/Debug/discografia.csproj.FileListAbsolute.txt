@@ -1,0 +1,16 @@
+C:\Users\NICO-PC\Desktop\app-discos\Discos\discografia\bin\Debug\discografia.exe.config
+C:\Users\NICO-PC\Desktop\app-discos\Discos\discografia\bin\Debug\discografia.exe
+C:\Users\NICO-PC\Desktop\app-discos\Discos\discografia\bin\Debug\discografia.pdb
+C:\Users\NICO-PC\Desktop\app-discos\Discos\discografia\obj\Debug\discografia.csproj.AssemblyReference.cache
+C:\Users\NICO-PC\Desktop\app-discos\Discos\discografia\obj\Debug\discografia.frmDiscos.resources
+C:\Users\NICO-PC\Desktop\app-discos\Discos\discografia\obj\Debug\discografia.Properties.Resources.resources
+C:\Users\NICO-PC\Desktop\app-discos\Discos\discografia\obj\Debug\discografia.csproj.GenerateResource.cache
+C:\Users\NICO-PC\Desktop\app-discos\Discos\discografia\obj\Debug\discografia.csproj.CoreCompileInputs.cache
+C:\Users\NICO-PC\Desktop\app-discos\Discos\discografia\obj\Debug\discografia.exe
+C:\Users\NICO-PC\Desktop\app-discos\Discos\discografia\obj\Debug\discografia.pdb
+C:\Users\NICO-PC\Desktop\app-discos\Discos\discografia\bin\Debug\dominio.dll
+C:\Users\NICO-PC\Desktop\app-discos\Discos\discografia\bin\Debug\dominio.pdb
+C:\Users\NICO-PC\Desktop\app-discos\Discos\discografia\obj\Debug\discografia.csproj.CopyComplete
+C:\Users\NICO-PC\Desktop\app-discos\Discos\discografia\bin\Debug\negocio.dll
+C:\Users\NICO-PC\Desktop\app-discos\Discos\discografia\bin\Debug\negocio.pdb
+C:\Users\NICO-PC\Desktop\app-discos\Discos\discografia\obj\Debug\discografia.frmAltaDisco.resources
